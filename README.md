@@ -3,6 +3,12 @@ An automated High Flow Nasal Cannula (HFNC) system made with Arduinos. By turnin
 
 Associated with the Summer Experience in Engineering Design (SEED) program at the Oshman Engineering Design Kitchen (OEDK), Rice University.
 
+Key improvements to the project include:
+- Optimized an automated High Flow Nasal Cannula (HFNC) system, a medical device that delivers oxygen-enriched, heated, and humidified air at high flow rates of up to 60 LPM.
+- Reduced system response time from 5 minutes to 30 seconds by modularizing the existing control algorithm.
+- Designed a reinforced motor-valve assembly housing to securely accommodate a 150-RPM motor, ensuring stability at higher speeds and preventing valves from loosening in all test runs.
+- Simplified the user interface by integrating two rotary encoders and an LCD screen on the device’s enclosure, making the system intuitive to control and mountable on a hospital IV pole.
+
 **See the "Final Code & Instructions" folder for the final master code needed to run the device, as well as setup instructions.**
 
 **See the link below for a presentation on the project:**
